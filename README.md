@@ -1,1 +1,1 @@
-## Course contents, exercise solutions
+### Note: Course contents, exercise solutions, practice problems
