@@ -1,1 +1,1 @@
-Deep
+Deep Learning using Pytorch
